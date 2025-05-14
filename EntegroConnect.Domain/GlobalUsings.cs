@@ -1,0 +1,10 @@
+﻿global using EntegroConnect.Common.Extensions;
+global using EntegroConnect.Common.Interfaces;
+global using EntegroConnect.Common.Models;
+global using Microsoft.Extensions.Configuration;
+global using Newtonsoft.Json;
+global using Newtonsoft.Json.Linq;
+global using System.Data;
+global using System.Net;
+global using System.Net.Mail;
+global using System.Text;

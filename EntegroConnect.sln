@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntegroConnect.API", "EntegroConnect.API\EntegroConnect.API.csproj", "{56A9042B-CF39-4300-88C2-87EFB34471A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntegroConnect.Domain", "EntegroConnect.Domain\EntegroConnect.Domain.csproj", "{68D20F9C-BC15-4065-BA30-90F75553392C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntegroConnect.Common", "EntegroConnect.Common\EntegroConnect.Common.csproj", "{C694A6EB-D14A-4E6A-BBA5-1C0C8F0AC6B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A9042B-CF39-4300-88C2-87EFB34471A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A9042B-CF39-4300-88C2-87EFB34471A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A9042B-CF39-4300-88C2-87EFB34471A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A9042B-CF39-4300-88C2-87EFB34471A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D20F9C-BC15-4065-BA30-90F75553392C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D20F9C-BC15-4065-BA30-90F75553392C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D20F9C-BC15-4065-BA30-90F75553392C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D20F9C-BC15-4065-BA30-90F75553392C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C694A6EB-D14A-4E6A-BBA5-1C0C8F0AC6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C694A6EB-D14A-4E6A-BBA5-1C0C8F0AC6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C694A6EB-D14A-4E6A-BBA5-1C0C8F0AC6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C694A6EB-D14A-4E6A-BBA5-1C0C8F0AC6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B05868A7-0313-4FF7-85A5-3F09E8AA5FE4}
+	EndGlobalSection
+EndGlobal

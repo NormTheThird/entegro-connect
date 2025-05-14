@@ -1,0 +1,16 @@
+﻿global using EntegroConnect.API.Filters;
+global using EntegroConnect.API.Services;
+global using EntegroConnect.Common.Interfaces;
+global using EntegroConnect.Common.Models;
+global using EntegroConnect.Domain.Services;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Filters;
+global using Microsoft.OpenApi.Models;
+global using Newtonsoft.Json.Linq;
+global using Serilog;
+global using Serilog.Events;
+global using System.Data;
+global using System.Net.Http.Headers;
+global using System.Reflection;
+global using System.Text;
+global using System.Text.Json.Serialization;
